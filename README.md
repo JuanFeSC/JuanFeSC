@@ -1,16 +1,15 @@
-### Hi there 👋
+![github](https://www.grupocibernos.com/hubfs/desarrollo%20de%20software%20a%20medida.jpg)
 
-<!--
-**JuanFeSC/JuanFeSC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hola, soy Juan Felipe Salazar Castro</h1>
+<h3 align="center">Aprendiendo dia a dia de las posibilidades que se me presentan, sacando el maximo provecho de todo, feliz de la vida que llevo y queriendo ser grande, aprendiendo mucho de nuevas tecnologias y tratando de mantenerme actualizado dia a dia</h3>
 
-Here are some ideas to get you started:
+🌱 Actualmente estoy aprendiendo **React, JavaScript, Python, Node.js** sacando el maximo provecho de todo, soy estudiante de Ingenieria Informatica, que esta cursando el 8vo semestre, en la Corporación Universitaria Autónoma de Nariño.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Conocimientos en redes, instalación de circuitos cerrados de seguridad, audiovisuales e informatíca.
+- 💬 Conocimientos en Java, JavaScript, Python, C++, C#, Css, HTML, Node.js, MySql, Pseint, Dfd.
+
+- ⚡ **"Me lo contaron y lo olvidé; lo vi y lo entendí; lo hice y lo aprendí. (Confusio)"**
+
+![github](https://www.occ.com.mx/blog/wp-content/uploads/2017/06/frase-mahatma-gandhi-occeducacion.png)
+
+- ⚡ **"JAMAS DEJARE DE SER UN ESTUDIANTE, PORQUE TODOS LOS DIAS VOY A APRENDER ALGO"**
